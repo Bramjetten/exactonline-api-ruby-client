@@ -9,7 +9,7 @@ module Elmas
     end
 
     def mandatory_attributes
-      [:journal, :contact, :sales_entry_lines]
+      [:journal, :customer, :sales_entry_lines]
     end
 
     def other_attributes
